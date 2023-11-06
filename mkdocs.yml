@@ -1,0 +1,6 @@
+site_name: NULIX
+site_url: https://nulix.hr
+theme:
+  name: readthedocs
+nav:
+    - Home: index.md

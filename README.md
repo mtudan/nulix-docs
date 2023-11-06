@@ -1,2 +1,0 @@
-# nulix
-Nulix GitHub Pages
